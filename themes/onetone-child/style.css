@@ -1,0 +1,16 @@
+/*
+ Theme Name:   onetone Child
+ Theme URI:    
+ Description:  onetone child - using onetone theme as a base
+ Author:       Vanessa Garcia
+ Author URI:   
+ Template:     onetone
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         
+ Text Domain:  onetone child
+*/
+
+/*importing zerif-lite theme styles*/
+@import url(../onetone/style.css);
